@@ -1,0 +1,5 @@
+1. find a truck video
+2. detect the truck using yolo
+3. detect the text part using yolo
+4. export the text part
+5. use ocr on text part
