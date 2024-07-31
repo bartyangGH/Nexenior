@@ -1,4 +1,4 @@
-# Nexenior
+# Nexenior https://www.nexenior.ai
 
 ## Getting Started
 
